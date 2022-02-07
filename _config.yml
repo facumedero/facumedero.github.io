@@ -1,11 +1,11 @@
 ### your site title here
 
 title: Welcome to my Personal Page
-description: Full Stack Developer |
+description: Medero Facundo | Full Stack Developer |
 
 baseurl: / #name of GitHub repository (facumedero.github.io/)
 url: "" #custom url to be used instead of GitHub repository
-email: facundomedero26@gmail.com#
+email: facundomedero26@gmail.com
 
 
 highlighter: rouge
@@ -17,12 +17,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
+facebook: "https://www.facebook.com/facundo.medero/"
+twitter: "https://twitter.com/facundomedero"
 linkedin: "facundo-medero-3b55a6172/"
 github: "facumedero"
-researchgate: "#"
-orcid: "#"
+#researchgate: "#"
+#orcid: "#"
 
 highlighter: rouge
 markdown: kramdown
