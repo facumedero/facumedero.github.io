@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Welcome to my Personal Page
+description: Full Stack Developer |
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: / #name of GitHub repository (facumedero.github.io/)
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: facundomedero26@gmail.com#
 
 
 highlighter: rouge
@@ -19,8 +19,8 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 facebook: "#"
 twitter: "#"
-linkedin: "#"
-github: "#"
+linkedin: "facundo-medero-3b55a6172/"
+github: "facumedero"
 researchgate: "#"
 orcid: "#"
 
