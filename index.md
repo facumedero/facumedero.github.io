@@ -53,4 +53,5 @@ This is a testing page to learn about a bit more than css and Jekyll. It's respo
 Find all of my socials, projects, and full resume here:
 
 * **[🌐 Linktree & Portfolio](https://linktr.ee/facundomedero)**
+  
 Bye Bye!
